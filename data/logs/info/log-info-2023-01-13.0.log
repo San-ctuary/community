@@ -1,0 +1,101 @@
+2023-01-13 23:15:20,073 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 11.0.10 on Sanctuary with PID 17204 (E:\IdeaProjects\community\target\classes started by Codingboy in E:\IdeaProjects\community)
+2023-01-13 23:15:20,086 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2023-01-13 23:15:20,509 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-01-13 23:15:20,514 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-01-13 23:15:20,515 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2023-01-13 23:15:20,541 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-01-13 23:15:20,541 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 436 ms
+2023-01-13 23:15:20,586 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Stopping service [Tomcat]
+2023-01-13 23:15:20,595 INFO [restartedMain] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-01-13 23:15:22,085 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 11.0.10 on Sanctuary with PID 17204 (E:\IdeaProjects\community\target\classes started by Codingboy in E:\IdeaProjects\community)
+2023-01-13 23:15:22,085 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2023-01-13 23:15:22,317 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-01-13 23:15:22,318 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-01-13 23:15:22,318 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2023-01-13 23:15:22,332 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-01-13 23:15:22,332 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 245 ms
+2023-01-13 23:15:22,342 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Stopping service [Tomcat]
+2023-01-13 23:15:22,345 INFO [restartedMain] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-01-13 23:15:22,786 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 11.0.10 on Sanctuary with PID 34160 (started by Codingboy in E:\IdeaProjects\community)
+2023-01-13 23:15:22,789 INFO [main] c.n.c.MailTests [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2023-01-13 23:15:24,733 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-01-13 23:15:25,091 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.772 seconds (JVM running for 3.96)
+2023-01-13 23:20:26,736 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 11.0.10 on Sanctuary with PID 17204 (E:\IdeaProjects\community\target\classes started by Codingboy in E:\IdeaProjects\community)
+2023-01-13 23:20:26,736 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2023-01-13 23:20:26,890 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-01-13 23:20:26,890 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-01-13 23:20:26,890 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2023-01-13 23:20:26,903 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-01-13 23:20:26,904 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 166 ms
+2023-01-13 23:20:26,917 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Stopping service [Tomcat]
+2023-01-13 23:20:26,922 INFO [restartedMain] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-01-13 23:20:30,236 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 11.0.10 on Sanctuary with PID 26444 (started by Codingboy in E:\IdeaProjects\community)
+2023-01-13 23:20:30,239 INFO [main] c.n.c.MailTests [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2023-01-13 23:20:32,224 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-01-13 23:20:32,546 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.743 seconds (JVM running for 3.685)
+2023-01-13 23:25:19,225 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 11.0.10 on Sanctuary with PID 17204 (E:\IdeaProjects\community\target\classes started by Codingboy in E:\IdeaProjects\community)
+2023-01-13 23:25:19,226 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2023-01-13 23:25:19,408 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-01-13 23:25:19,409 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-01-13 23:25:19,409 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2023-01-13 23:25:19,419 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-01-13 23:25:19,419 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 192 ms
+2023-01-13 23:25:19,431 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Stopping service [Tomcat]
+2023-01-13 23:25:19,434 INFO [restartedMain] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-01-13 23:25:20,719 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 11.0.10 on Sanctuary with PID 32708 (started by Codingboy in E:\IdeaProjects\community)
+2023-01-13 23:25:20,725 INFO [main] c.n.c.MailTests [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2023-01-13 23:25:22,580 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-01-13 23:25:22,891 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.641 seconds (JVM running for 3.675)
+2023-01-13 23:26:44,742 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 11.0.10 on Sanctuary with PID 17204 (E:\IdeaProjects\community\target\classes started by Codingboy in E:\IdeaProjects\community)
+2023-01-13 23:26:44,743 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2023-01-13 23:26:44,897 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-01-13 23:26:44,898 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-01-13 23:26:44,898 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2023-01-13 23:26:44,911 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-01-13 23:26:44,911 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 166 ms
+2023-01-13 23:26:44,922 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Stopping service [Tomcat]
+2023-01-13 23:26:44,927 INFO [restartedMain] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-01-13 23:26:48,618 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 11.0.10 on Sanctuary with PID 33648 (started by Codingboy in E:\IdeaProjects\community)
+2023-01-13 23:26:48,620 INFO [main] c.n.c.MailTests [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2023-01-13 23:26:50,417 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-01-13 23:26:50,798 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.59 seconds (JVM running for 3.474)
+2023-01-13 23:28:51,997 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 11.0.10 on Sanctuary with PID 17204 (E:\IdeaProjects\community\target\classes started by Codingboy in E:\IdeaProjects\community)
+2023-01-13 23:28:51,997 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2023-01-13 23:28:52,234 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-01-13 23:28:52,234 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-01-13 23:28:52,234 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2023-01-13 23:28:52,251 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-01-13 23:28:52,251 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 249 ms
+2023-01-13 23:28:52,263 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Stopping service [Tomcat]
+2023-01-13 23:28:52,267 INFO [restartedMain] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-01-13 23:28:52,923 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 11.0.10 on Sanctuary with PID 18616 (started by Codingboy in E:\IdeaProjects\community)
+2023-01-13 23:28:52,928 INFO [main] c.n.c.MailTests [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2023-01-13 23:28:54,750 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-01-13 23:28:55,108 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.787 seconds (JVM running for 3.779)
+2023-01-13 23:34:29,373 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 11.0.10 on Sanctuary with PID 17204 (E:\IdeaProjects\community\target\classes started by Codingboy in E:\IdeaProjects\community)
+2023-01-13 23:34:29,374 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2023-01-13 23:34:29,539 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-01-13 23:34:29,540 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-01-13 23:34:29,540 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2023-01-13 23:34:29,550 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-01-13 23:34:29,551 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 176 ms
+2023-01-13 23:34:29,564 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Stopping service [Tomcat]
+2023-01-13 23:34:29,568 INFO [restartedMain] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:136] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-01-13 23:34:33,532 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 11.0.10 on Sanctuary with PID 10420 (started by Codingboy in E:\IdeaProjects\community)
+2023-01-13 23:34:33,534 INFO [main] c.n.c.MailTests [SpringApplication.java:659] No active profile set, falling back to default profiles: default
+2023-01-13 23:34:35,616 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-01-13 23:34:35,966 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.932 seconds (JVM running for 3.882)
